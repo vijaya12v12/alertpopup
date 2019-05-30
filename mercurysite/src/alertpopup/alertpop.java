@@ -34,7 +34,7 @@ public class alertpop {
 		
 		alert.accept(); //click on OK btn
 		
-		//alert.dismiss(); //click on cancel btn
+		alert.dismiss(); //click on cancel btn
 		
 	}
 
